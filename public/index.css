@@ -75,9 +75,22 @@ body {
 
 .info {
 	text-align: left;
+	margin: 26px auto;
 }
 
 .info p {
 	font-size: 0.8em;
 	text-align: justify;
+}
+
+.by {
+	color: #fff;
+	font-weight: normal;
+	font-size: 0.8em;
+	margin: 20px auto;
+}
+
+.by a {
+	color: #fff;
+	text-decoration: underline;
 }
